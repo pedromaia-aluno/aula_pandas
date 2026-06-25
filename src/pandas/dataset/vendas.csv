@@ -1,0 +1,316 @@
+id_venda,id_cliente,codigo_vendedor,produto,quantidade,preco_unitario,loja,data,observacao
+1,41,102,notebook,3,3500,Loja Norte,2025-02-05,
+2,48,102,headset,5,250,Loja Centro,2025-04-19,Cupom
+3,3,888,Notebook,2,3500,Loja Centro,2025-02-20,Cupom
+4,46,109,Monitor,4,1200,Loja Sul,2025-02-10,
+5,45,107,TECLADO,2,150,Loja Norte,2025-01-27,
+6,6,107,NOTEBOOK,3,3500,Loja Sul,2025-04-28,
+7,35,102,Monitor,5,1200,Loja Sul,2025-06-08,Cliente VIP
+8,24,110,mouse,1,80,Loja Centro,2025-02-28,Cliente VIP
+9,50,105,Notebook,1,3500,,2025-04-27,
+10,41,106,MOUSE,3,80,Loja Norte,2025-03-10,Cliente VIP
+11,45,102,cadeira gamer,2,900,Loja Norte,2025-04-29,
+12,25,105,headset,5,250,Loja Norte,2025-03-25,Cliente VIP
+13,50,101,Mouse,3,80,,2025-01-17,
+14,14,110,HEADSET,2,250,,2025-06-14,Promoção
+15,30,103,Teclado,2,150,Loja Sul,2025-05-30,Cliente VIP
+16,28,110,MONITOR,2,1200,Loja Norte,2025-05-07,Cupom
+17,6,101,Notebook,2,3500,,2025-01-17,Cupom
+18,25,107,CADEIRA GAMER,5,900,Loja Sul,2025-01-03,Cupom
+19,44,102,headset,3,,Loja Sul,2025-03-17,
+20,28,103,Monitor,3,,Loja Norte,2025-01-28,Cupom
+21,41,105,headset,5,250,Loja Norte,2025-04-06,
+22,49,103,cadeira gamer,1,900,Loja Sul,2025-01-05,Promoção
+23,8,106,Teclado,1,150,Loja Norte,2025-01-21,Cupom
+24,6,108,notebook,2,3500,Loja Norte,2025-05-02,Cliente VIP
+25,36,103,teclado,5,150,,2025-05-19,
+26,999,104,HEADSET,4,250,Loja Sul,2025-05-13,Promoção
+27,999,102,Mouse,1,80,Loja Sul,2025-05-31,
+28,36,104,Cadeira Gamer,1,900,Loja Centro,2025-06-11,Cliente VIP
+29,4,104,Notebook,3,3500,Loja Centro,2025-03-02,Cupom
+30,18,108,mouse,2,80,,2025-05-02,
+31,27,104,Notebook,,3500,Loja Sul,2025-04-16,Promoção
+32,30,101,headset,1,250,Loja Centro,2025-03-28,Promoção
+33,7,104,Mouse,5,80,,2025-04-19,
+34,12,105,Monitor,1,1200,,2025-01-26,Cupom
+35,4,109,Notebook,2,3500,Loja Norte,2025-05-05,Promoção
+36,31,104,Monitor,2,1200,,2025-04-10,
+37,17,108,TECLADO,5,150,,2025-02-18,
+38,19,104,notebook,5,3500,Loja Centro,2025-03-22,Cliente VIP
+39,4,101,CADEIRA GAMER,5,900,Loja Norte,2025-05-11,
+40,6,103,notebook,1,3500,Loja Norte,2025-01-31,Promoção
+41,37,104,cadeira gamer,1,900,Loja Centro,2025-06-18,Promoção
+42,38,110,CADEIRA GAMER,3,900,Loja Norte,2025-03-22,Cliente VIP
+43,16,105,Monitor,3,1200,,2025-01-19,
+44,1,108,cadeira gamer,1,900,Loja Centro,2025-02-24,Cupom
+45,33,105,MOUSE,1,80,Loja Norte,2025-03-14,
+46,11,108,cadeira gamer,,900,Loja Centro,2025-05-22,Cliente VIP
+47,20,102,MOUSE,1,80,Loja Centro,2025-05-22,Cliente VIP
+48,10,105,teclado,2,150,Loja Sul,2025-06-25,
+49,41,105,CADEIRA GAMER,3,900,Loja Centro,2025-06-12,
+50,28,105,Notebook,3,3500,Loja Norte,2025-03-09,Cliente VIP
+51,11,108,cadeira gamer,4,900,Loja Centro,2025-01-20,
+52,999,888,Cadeira Gamer,3,900,Loja Norte,2025-02-02,Promoção
+53,3,105,Teclado,3,150,Loja Norte,2025-03-05,Cliente VIP
+54,43,102,teclado,4,150,Loja Norte,2025-02-11,
+55,12,107,Notebook,3,3500,,2025-03-05,Cliente VIP
+56,18,103,Headset,4,250,Loja Centro,2025-02-26,Promoção
+57,13,108,TECLADO,2,150,Loja Norte,2025-06-18,
+58,13,107,TECLADO,1,150,Loja Sul,2025-06-14,
+59,33,107,headset,3,250,Loja Centro,2025-03-08,
+60,12,110,Teclado,1,150,,2025-03-22,
+61,28,110,Cadeira Gamer,4,900,Loja Norte,2025-01-12,
+62,46,107,notebook,5,3500,Loja Norte,2025-04-21,
+63,5,106,CADEIRA GAMER,1,900,Loja Sul,2025-03-21,Cupom
+64,43,107,TECLADO,3,150,Loja Norte,2025-04-18,
+65,43,107,headset,2,250,Loja Sul,2025-05-21,Promoção
+66,1,105,Teclado,4,150,Loja Sul,2025-04-24,Promoção
+67,29,104,CADEIRA GAMER,2,900,Loja Centro,2025-05-12,
+68,43,110,Teclado,2,150,Loja Sul,2025-02-20,
+69,10,101,Notebook,4,3500,Loja Centro,2025-04-17,Promoção
+70,41,110,mouse,4,80,,2025-03-04,Promoção
+71,10,888,NOTEBOOK,2,3500,Loja Norte,2025-05-13,Cliente VIP
+72,30,101,Cadeira Gamer,1,900,,2025-04-29,
+73,43,109,cadeira gamer,3,900,,2025-05-10,Cupom
+74,28,109,Monitor,4,1200,,2025-03-05,
+75,41,105,CADEIRA GAMER,2,900,Loja Sul,2025-01-20,Promoção
+76,46,105,MOUSE,3,80,Loja Sul,2025-01-21,Cupom
+77,9,103,MOUSE,2,80,Loja Norte,2025-04-17,
+78,27,106,CADEIRA GAMER,4,900,Loja Centro,2025-04-18,
+79,25,110,Headset,5,250,,2025-01-02,Promoção
+80,23,105,MONITOR,5,1200,Loja Norte,2025-02-26,Promoção
+81,18,888,Monitor,4,1200,Loja Sul,2025-06-23,Cliente VIP
+82,26,103,Monitor,5,1200,Loja Centro,2025-06-01,Promoção
+83,37,101,notebook,4,3500,Loja Norte,2025-02-16,Promoção
+84,4,105,MONITOR,2,1200,,2025-03-28,
+85,49,107,TECLADO,3,150,Loja Centro,2025-01-05,Promoção
+86,48,109,NOTEBOOK,2,3500,Loja Centro,2025-01-11,Cliente VIP
+87,49,101,Mouse,1,80,Loja Norte,2025-02-02,
+88,31,102,Cadeira Gamer,4,900,Loja Sul,2025-02-12,
+89,39,110,headset,1,250,Loja Norte,2025-01-28,
+90,38,101,teclado,4,,,2025-02-20,Cliente VIP
+91,5,110,headset,2,,Loja Centro,2025-03-19,Cliente VIP
+92,44,110,notebook,1,3500,Loja Sul,2025-04-20,Cupom
+93,43,106,notebook,3,3500,Loja Centro,2025-05-06,Promoção
+94,7,107,teclado,4,150,Loja Norte,2025-02-15,Promoção
+95,47,109,HEADSET,5,250,,2025-04-22,Promoção
+96,47,110,TECLADO,2,,Loja Centro,2025-04-26,
+97,16,108,cadeira gamer,4,900,Loja Sul,2025-05-07,
+98,21,103,Monitor,3,1200,Loja Sul,2025-03-13,
+99,39,105,Cadeira Gamer,5,900,Loja Norte,2025-03-03,
+100,47,107,monitor,2,1200,,2025-05-06,Cliente VIP
+101,29,101,NOTEBOOK,2,3500,,2025-03-04,Cliente VIP
+102,20,110,TECLADO,5,150,Loja Sul,2025-05-21,Promoção
+103,22,106,HEADSET,,250,Loja Sul,2025-03-01,
+104,8,104,Teclado,5,150,Loja Norte,2025-02-25,
+105,48,108,teclado,5,150,Loja Sul,2025-02-19,
+106,19,104,Teclado,3,150,Loja Centro,2025-05-17,Cliente VIP
+107,9,105,Notebook,5,3500,Loja Sul,2025-02-02,Cliente VIP
+108,41,108,Notebook,5,3500,Loja Sul,2025-05-03,Promoção
+109,29,106,Mouse,3,80,,2025-01-17,
+110,26,108,notebook,1,3500,Loja Norte,2025-05-25,
+111,20,102,Mouse,5,80,,2025-06-02,Cupom
+112,40,104,CADEIRA GAMER,4,900,,2025-05-31,
+113,28,105,cadeira gamer,1,900,Loja Centro,2025-06-10,
+114,14,105,Headset,2,250,Loja Norte,2025-05-22,
+115,5,103,NOTEBOOK,4,3500,,2025-01-09,
+116,999,105,HEADSET,4,250,Loja Centro,2025-03-01,Cliente VIP
+117,17,110,Headset,4,250,Loja Centro,2025-02-27,Cupom
+118,42,103,Teclado,1,150,Loja Centro,2025-03-20,
+119,39,110,TECLADO,1,,,2025-03-19,Cliente VIP
+120,999,107,teclado,5,150,,2025-01-21,Promoção
+121,39,101,monitor,3,1200,Loja Sul,2025-01-24,
+122,15,110,Cadeira Gamer,3,900,Loja Centro,2025-05-01,
+123,999,108,Teclado,5,150,,2025-05-06,Cliente VIP
+124,6,108,TECLADO,3,150,Loja Sul,2025-01-27,Cliente VIP
+125,999,106,monitor,4,1200,Loja Sul,2025-04-13,Cliente VIP
+126,49,109,NOTEBOOK,1,3500,Loja Sul,2025-03-24,
+127,8,107,Cadeira Gamer,5,900,,2025-01-14,Promoção
+128,13,109,teclado,4,150,,2025-02-22,
+129,18,109,MOUSE,4,80,,2025-01-08,
+130,41,110,mouse,2,80,Loja Sul,2025-01-04,Cupom
+131,36,107,Notebook,1,3500,,2025-06-15,
+132,10,108,HEADSET,5,250,Loja Sul,2025-05-04,Promoção
+133,31,104,monitor,2,1200,,2025-06-03,
+134,33,103,NOTEBOOK,4,3500,Loja Sul,2025-03-10,Cupom
+135,1,105,HEADSET,5,250,,2025-04-25,
+136,35,108,TECLADO,5,150,,2025-03-24,Promoção
+137,13,104,CADEIRA GAMER,2,900,,2025-03-23,
+138,48,108,HEADSET,4,250,Loja Norte,2025-01-10,Promoção
+139,9,109,CADEIRA GAMER,1,900,,2025-05-15,
+140,30,101,Headset,4,250,Loja Norte,2025-05-01,
+141,17,106,cadeira gamer,4,900,Loja Centro,2025-06-22,
+142,35,107,teclado,4,150,Loja Centro,2025-01-18,Cupom
+143,16,105,mouse,1,80,,2025-06-12,
+144,46,102,Monitor,3,1200,Loja Centro,2025-03-25,
+145,4,105,TECLADO,4,150,Loja Norte,2025-05-16,
+146,27,110,Headset,2,250,Loja Norte,2025-06-06,
+147,25,110,Headset,,250,Loja Norte,2025-04-29,
+148,41,105,MONITOR,,1200,,2025-06-23,
+149,35,103,NOTEBOOK,3,3500,Loja Sul,2025-04-19,Cliente VIP
+150,45,105,MONITOR,2,1200,,2025-01-28,Promoção
+151,16,107,CADEIRA GAMER,5,900,Loja Sul,2025-03-17,Cliente VIP
+152,2,107,Teclado,5,150,Loja Centro,2025-05-08,Cupom
+153,19,104,CADEIRA GAMER,2,900,Loja Norte,2025-03-06,Cupom
+154,44,103,Headset,1,250,Loja Sul,2025-01-09,Promoção
+155,38,106,Headset,1,250,Loja Sul,2025-04-17,
+156,12,104,mouse,3,80,Loja Sul,2025-03-07,
+157,31,105,HEADSET,1,250,,2025-02-06,
+158,49,104,headset,4,250,Loja Sul,2025-04-12,
+159,1,105,Cadeira Gamer,4,900,Loja Sul,2025-06-22,Cliente VIP
+160,17,110,monitor,3,1200,Loja Centro,2025-03-01,Cliente VIP
+161,31,101,cadeira gamer,3,900,Loja Norte,2025-01-17,Cliente VIP
+162,41,108,HEADSET,4,250,Loja Centro,2025-01-12,
+163,3,105,Monitor,1,1200,Loja Norte,2025-02-04,Cupom
+164,25,108,teclado,5,150,,2025-02-09,Cupom
+165,27,102,monitor,,1200,Loja Sul,2025-06-26,
+166,24,104,MONITOR,2,1200,Loja Sul,2025-06-25,
+167,24,109,HEADSET,1,250,,2025-02-18,
+168,8,108,notebook,2,3500,Loja Centro,2025-03-27,
+169,16,103,Cadeira Gamer,1,900,Loja Norte,2025-02-25,Cupom
+170,15,888,mouse,1,80,Loja Sul,2025-02-03,
+171,35,105,Mouse,1,80,Loja Norte,2025-04-02,
+172,16,110,Teclado,2,150,Loja Sul,2025-02-02,
+173,48,107,Cadeira Gamer,1,900,,2025-04-03,Promoção
+174,33,110,NOTEBOOK,5,3500,Loja Norte,2025-01-12,Cupom
+175,47,109,TECLADO,1,150,Loja Centro,2025-04-13,Promoção
+176,28,102,monitor,4,1200,Loja Centro,2025-03-24,
+177,39,103,Notebook,3,3500,Loja Sul,2025-06-02,Promoção
+178,34,105,monitor,5,1200,,2025-06-29,
+179,8,109,Headset,4,250,,2025-04-16,
+180,22,108,MONITOR,1,1200,Loja Sul,2025-03-22,Promoção
+181,43,105,Teclado,4,150,Loja Centro,2025-01-22,
+182,6,107,notebook,3,3500,Loja Norte,2025-01-16,Cupom
+183,38,109,CADEIRA GAMER,1,900,,2025-06-20,
+184,49,107,Headset,3,250,Loja Sul,2025-01-27,
+185,37,109,Mouse,4,80,Loja Norte,2025-03-31,
+186,36,106,NOTEBOOK,5,3500,Loja Norte,2025-05-24,Promoção
+187,50,110,cadeira gamer,5,900,Loja Centro,2025-06-18,Cupom
+188,45,105,Notebook,3,3500,Loja Sul,2025-03-31,
+189,1,103,mouse,4,80,Loja Centro,2025-06-12,
+190,2,102,headset,2,250,,2025-04-27,Promoção
+191,22,103,TECLADO,3,150,Loja Centro,2025-02-09,
+192,11,110,notebook,1,3500,Loja Sul,2025-06-19,Promoção
+193,28,108,CADEIRA GAMER,4,900,Loja Sul,2025-05-12,
+194,8,106,Monitor,3,1200,,2025-06-20,Cupom
+195,20,101,MOUSE,5,80,Loja Centro,2025-02-22,
+196,20,104,MOUSE,3,80,Loja Sul,2025-01-02,
+197,32,107,Mouse,4,80,Loja Norte,2025-05-24,Cupom
+198,43,106,NOTEBOOK,1,3500,,2025-04-28,
+199,5,106,CADEIRA GAMER,5,900,,2025-06-13,Cliente VIP
+200,27,105,NOTEBOOK,1,3500,Loja Sul,2025-06-08,
+201,30,106,NOTEBOOK,1,3500,Loja Norte,2025-05-31,Promoção
+202,26,109,NOTEBOOK,3,3500,Loja Sul,2025-03-27,
+203,50,103,notebook,1,3500,Loja Norte,2025-03-31,
+204,47,103,Mouse,2,,Loja Sul,2025-02-14,
+205,39,103,Headset,2,250,,2025-05-25,Promoção
+206,49,110,monitor,5,1200,Loja Sul,2025-03-22,Cliente VIP
+207,10,108,NOTEBOOK,4,3500,Loja Sul,2025-06-01,
+208,4,106,Cadeira Gamer,3,900,,2025-01-10,Promoção
+209,4,106,Teclado,,150,,2025-05-29,Promoção
+210,36,101,monitor,2,1200,Loja Sul,2025-05-02,Cupom
+211,33,103,NOTEBOOK,1,3500,Loja Sul,2025-01-22,Cliente VIP
+212,33,888,Notebook,4,3500,,2025-05-14,Cupom
+213,40,103,TECLADO,3,150,,2025-03-28,Promoção
+214,44,110,notebook,3,,Loja Centro,2025-01-25,
+215,36,107,TECLADO,5,150,Loja Norte,2025-01-21,
+216,38,103,TECLADO,4,150,Loja Norte,2025-01-22,Cupom
+217,20,109,monitor,3,1200,Loja Norte,2025-06-29,Cliente VIP
+218,48,109,notebook,4,3500,Loja Sul,2025-04-03,
+219,20,103,MOUSE,4,80,Loja Norte,2025-02-05,
+220,10,102,Teclado,5,150,Loja Centro,2025-03-28,Cliente VIP
+221,50,110,mouse,4,80,Loja Norte,2025-02-16,
+222,45,110,mouse,4,80,Loja Centro,2025-04-04,Promoção
+223,44,104,monitor,3,1200,,2025-05-17,
+224,16,105,Monitor,3,1200,,2025-03-14,Promoção
+225,50,107,cadeira gamer,4,900,Loja Norte,2025-06-04,
+226,9,105,notebook,4,3500,Loja Sul,2025-01-27,Cupom
+227,46,109,NOTEBOOK,1,3500,Loja Norte,2025-04-26,
+228,33,103,Monitor,2,1200,,2025-01-07,
+229,27,101,monitor,3,1200,Loja Norte,2025-01-21,Promoção
+230,24,104,NOTEBOOK,1,3500,Loja Sul,2025-02-05,
+231,3,105,monitor,2,1200,,2025-06-07,Promoção
+232,1,102,NOTEBOOK,2,3500,Loja Norte,2025-06-05,Cupom
+233,34,107,NOTEBOOK,2,3500,Loja Sul,2025-01-13,
+234,16,107,headset,4,250,Loja Centro,2025-05-08,
+235,39,109,notebook,5,3500,Loja Norte,2025-02-06,Cliente VIP
+236,19,107,notebook,3,3500,Loja Norte,2025-04-17,Cupom
+237,12,102,CADEIRA GAMER,1,900,Loja Centro,2025-05-01,Promoção
+238,3,107,TECLADO,1,150,Loja Sul,2025-03-30,
+239,16,102,cadeira gamer,3,900,Loja Norte,2025-04-01,
+240,35,106,Headset,4,250,,2025-02-16,Cliente VIP
+241,9,102,HEADSET,1,250,Loja Sul,2025-01-12,
+242,13,888,TECLADO,5,150,,2025-05-02,Cupom
+243,17,101,Headset,3,250,Loja Sul,2025-06-17,
+244,22,105,NOTEBOOK,,3500,,2025-04-23,Cliente VIP
+245,25,106,MOUSE,,80,Loja Sul,2025-03-10,Cupom
+246,6,107,NOTEBOOK,5,3500,Loja Norte,2025-03-17,Cupom
+247,21,102,NOTEBOOK,3,3500,Loja Sul,2025-06-04,Promoção
+248,46,107,mouse,4,80,Loja Sul,2025-01-11,Promoção
+249,47,106,CADEIRA GAMER,3,900,Loja Centro,2025-06-21,
+250,41,107,teclado,2,150,Loja Centro,2025-06-05,
+251,44,108,Notebook,1,3500,Loja Norte,2025-04-04,Cliente VIP
+252,24,107,Cadeira Gamer,5,900,Loja Norte,2025-04-26,Cliente VIP
+253,24,106,Monitor,5,1200,Loja Norte,2025-04-04,Cupom
+254,26,106,HEADSET,2,,Loja Centro,2025-02-17,
+255,32,109,monitor,1,1200,Loja Sul,2025-06-30,
+256,29,104,CADEIRA GAMER,4,900,Loja Norte,2025-02-04,
+257,5,108,mouse,4,80,Loja Centro,2025-03-23,Cliente VIP
+258,43,106,Headset,5,250,Loja Sul,2025-02-10,
+259,46,103,teclado,2,150,Loja Centro,2025-02-05,
+260,16,108,NOTEBOOK,5,3500,Loja Sul,2025-05-22,Promoção
+261,9,110,Notebook,3,3500,,2025-05-03,Cliente VIP
+262,34,107,monitor,1,1200,Loja Norte,2025-06-14,
+263,5,108,monitor,5,1200,Loja Sul,2025-05-22,
+264,41,110,Mouse,4,80,Loja Centro,2025-05-13,
+265,10,105,Mouse,3,80,Loja Norte,2025-05-13,
+266,19,102,Teclado,5,150,Loja Sul,2025-06-10,
+267,20,110,Cadeira Gamer,5,900,Loja Norte,2025-05-29,Cupom
+268,10,103,headset,5,250,Loja Sul,2025-01-11,Cupom
+269,2,102,notebook,5,3500,Loja Sul,2025-02-23,Cliente VIP
+270,50,110,monitor,1,1200,,2025-05-20,Cliente VIP
+271,19,105,Monitor,4,1200,Loja Sul,2025-01-19,Promoção
+272,999,101,MOUSE,4,80,,2025-02-22,Promoção
+273,22,110,MOUSE,3,80,Loja Sul,2025-02-03,Promoção
+274,49,106,cadeira gamer,1,,Loja Sul,2025-04-30,
+275,8,105,Monitor,2,1200,Loja Centro,2025-03-16,
+276,25,110,Monitor,2,1200,Loja Sul,2025-03-22,Cupom
+277,13,103,monitor,4,1200,,2025-05-08,
+278,2,102,monitor,4,1200,Loja Norte,2025-05-30,
+279,23,101,NOTEBOOK,4,3500,,2025-05-18,
+280,1,102,Monitor,3,1200,Loja Sul,2025-04-04,Promoção
+281,3,107,notebook,5,3500,Loja Norte,2025-05-22,
+282,19,888,monitor,4,1200,Loja Sul,2025-06-24,Cupom
+283,40,102,Mouse,4,80,Loja Sul,2025-05-23,
+284,24,103,mouse,5,80,,2025-01-11,Cupom
+285,3,101,mouse,3,80,,2025-04-27,Cupom
+286,10,110,Cadeira Gamer,3,900,Loja Sul,2025-04-11,
+287,40,105,CADEIRA GAMER,5,900,,2025-05-25,Cliente VIP
+288,20,108,NOTEBOOK,3,3500,Loja Centro,2025-05-30,Promoção
+289,20,101,CADEIRA GAMER,3,900,Loja Norte,2025-01-14,Cliente VIP
+290,38,108,mouse,5,80,,2025-06-24,
+291,16,101,cadeira gamer,1,900,Loja Norte,2025-04-23,
+292,21,107,MOUSE,2,80,,2025-06-06,Cupom
+293,31,101,Headset,5,250,Loja Norte,2025-03-25,Cupom
+294,43,108,CADEIRA GAMER,,900,Loja Norte,2025-05-17,Promoção
+295,22,109,teclado,3,150,,2025-03-05,
+296,18,109,Teclado,3,150,Loja Sul,2025-02-23,Cliente VIP
+297,45,108,TECLADO,3,150,Loja Sul,2025-02-01,
+298,37,109,MONITOR,3,1200,Loja Norte,2025-01-11,
+299,19,102,TECLADO,3,150,,2025-02-21,
+300,35,105,cadeira gamer,3,900,Loja Norte,2025-06-07,
+149,35,103,NOTEBOOK,3,3500,Loja Sul,2025-04-19,Cliente VIP
+20,28,103,Monitor,3,,Loja Norte,2025-01-28,Cupom
+5,45,107,TECLADO,2,150,Loja Norte,2025-01-27,
+153,19,104,CADEIRA GAMER,2,900,Loja Norte,2025-03-06,Cupom
+291,16,101,cadeira gamer,1,900,Loja Norte,2025-04-23,
+55,12,107,Notebook,3,3500,,2025-03-05,Cliente VIP
+172,16,110,Teclado,2,150,Loja Sul,2025-02-02,
+146,27,110,Headset,2,250,Loja Norte,2025-06-06,
+233,34,107,NOTEBOOK,2,3500,Loja Sul,2025-01-13,
+279,23,101,NOTEBOOK,4,3500,,2025-05-18,
+269,2,102,notebook,5,3500,Loja Sul,2025-02-23,Cliente VIP
+253,24,106,Monitor,5,1200,Loja Norte,2025-04-04,Cupom
+69,10,101,Notebook,4,3500,Loja Centro,2025-04-17,Promoção
+259,46,103,teclado,2,150,Loja Centro,2025-02-05,
+240,35,106,Headset,4,250,,2025-02-16,Cliente VIP
