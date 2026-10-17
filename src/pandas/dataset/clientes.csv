@@ -1,11 +1,11 @@
 id,nome,cidade
-1,Ana Silva,REDENÇÃO
-2,Bruno Costa,redenção
-3,Carlos Lima,Belém
-4,Daniela Souza,BELEM
-5,Eduardo Rocha,Ananindeua
-6,Fernanda Alves, Ananindeua
-7,Gabriel Santos,
-8,Helena Martins,Santarém
-9,Ana Silva,REDENÇÃO
-10,Igor Pereira,santarém
+0,1,Ana Silva,Redenção
+1,2,Bruno Costa,Redenção
+2,3,Carlos Lima,Belém
+3,4,Daniela Souza,Belém
+4,5,Eduardo Rocha,Ananindeua
+5,6,Fernanda Alves,Ananindeua
+6,7,Gabriel Santos,Redenção
+7,8,Helena Martins,Santarém
+8,9,Ana Silva,Redenção
+9,10,Igor Pereira,Santarém

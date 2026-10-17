@@ -1,9 +1,9 @@
 codigo,nome,salario
-101,João Pedro,2500
-102,Maria Clara,3200
-103,Rafael Gomes,2800
-104,Amanda Costa,
-105,Lucas Rocha,2600
-106,João Pedro,2500
-107,Patrícia Lima,15000
-108,Felipe Souza,2700
+0,101,João Pedro,2500.0
+1,102,Maria Clara,3200.0
+2,103,Rafael Gomes,2800.0
+3,104,Amanda Costa,2800.0
+4,105,Lucas Rocha,2600.0
+5,106,João Pedro,2500.0
+6,107,Patrícia Lima,15000.0
+7,108,Felipe Souza,2700.0
